@@ -1,5 +1,5 @@
 SeaLion and BrassMonkey
 
-![SeaLion splash](36AEAF02-B03F-4DB9-861C-A2FEDA615E0F.png)
+![SeaLion splash](SeaLion_splash.png)
 
-![BrassMonkey splash](BrassMonkey_splash.png)
+<img src="BrassMonkey_splash.png" alt="BrassMonkey splash" with="537" height="312"/>
