@@ -1,4 +1,4 @@
-SeaLion and BrassMonkey
+SeaLion, BrassMonkey and Basilisk
 
 <img src="SeaLion_splash.png" alt="SeaLion splash" with="537" height="312"/>
 
